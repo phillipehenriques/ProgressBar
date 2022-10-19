@@ -16,3 +16,9 @@ function move() {
     }
   }
 }
+
+function backModal() {
+    var fundoBranco = getElementById('Wdiv')
+    // fundoBranco.style.display = "none";
+    alert('ola')
+  }
