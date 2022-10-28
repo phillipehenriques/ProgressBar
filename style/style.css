@@ -54,7 +54,7 @@ picture > img {
 }
 
 body {
-    background-color: rgb(184, 184, 207);
+    background-color: rgb(253, 103, 103);
     font-family: 'XXX';
     display: flex;
     flex-direction: column;
@@ -122,7 +122,7 @@ nav {
     align-items: center;
     justify-content: center;
     padding: 5px;
-    background-color: var(--cor02);
+    background-color: rgb(241, 26, 26);
     color: white;
     width: 60%;
     max-width: 1200px;
